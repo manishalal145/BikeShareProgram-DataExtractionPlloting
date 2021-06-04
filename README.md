@@ -15,7 +15,7 @@
 1. README.md file
 2. BikeShare2019.ipynb - Toronto notebook
 3. BikeShare2019Vancouver.ipynb - Vancouver notebook
-4. Project-BikeShare2019.ipynb - execute this final notebook to run Toronto and Vancouver notebooks
+4. Project-BikeShare2019.ipynb - The final notebook to run Toronto and Vancouver notebooks
 5. Project-Proposal-Outline.docx
 6. Datasets
    * Toronto file in Resources/Toronto folder
