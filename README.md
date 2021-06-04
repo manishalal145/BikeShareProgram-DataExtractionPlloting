@@ -1,4 +1,4 @@
-# Project1 : Proposal Outline
+# Project: Bike Share Program : Data Extraction and Plloting
  
 ## Group Members
 1. Rubalpreet Bhullar
@@ -6,8 +6,6 @@
 3. Sharanvika Jegatheeswaran
 4. Manisha Lal
 5. Catherine Tratnik
-
-## Topic: Bike Share Program
 
 ## Data Sources:
 1. [Toronto    2019 January to December](https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/)
