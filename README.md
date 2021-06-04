@@ -13,6 +13,19 @@
 1. [Toronto    2019 January to December](https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/)
 2. [Vancouver    2019 January to December](https://www.mobibikes.ca/en/system-data)
 
+## Inclusions
+1. README.md file
+2. BikeShare2019.ipynb - Toronto notebook
+3. BikeShare2019Vancouver.ipynb - Vancouver notebook
+4. Project-BikeShare2019.ipynb - execute this final notebook to run Toronto and Vancouver notebooks
+5. Project-Proposal-Outline.docx
+6. Datasets
+   * Toronto file in Resources/Toronto folder
+   * Vancouver file in Resources/Vancouver folder
+7. Plots in Images folder
+    * Images/Toronto
+    * Images/Vancouver
+
 ## Dataset Summary (What are we targeting for with this dataset?)
 With this dataset, we are aiming to look at if the bike share program is a necessity that can be implemented in other cities. By analysing patterns of ridership usage, it allows us to interpret the data. Which, in return, suggests a better comprehension of the trends concerning the Bike Share program. We aim to look at factors such as trip start time, trip end time, trip duration, trip start station, trip end station, and user type between the cities Toronto and Vancouver in 2019. An analysis of the effectiveness and efficiency of the bike share program in Toronto and Vancouver will onset the decision to implement this program in other cities as an eco and user-friendly program promoting health, eco-friendly transportation and tourism.
 
@@ -41,17 +54,4 @@ In summary, as the Ministry of Transportation of the regional municipality of Wa
 ## Limitations
 * Due to GitHub's upload file size limit of 100MB, files in Resources/Toronto folder are stored in .gitignore
 * Membership ID information is not included in the Vancouver data set, we cannot quantify how many individuals are registered in the bikeshare program.
-
-## inclusions
-1. README.md file
-2. BikeShare2019.ipynb - Toronto notebook
-3. BikeShare2019Vancouver.ipynb - Vancouver notebook
-4. Project-BikeShare2019.ipynb - execute this notebook to run Toronto and Vancouver notebooks
-5. Project-Proposal-Outline.docx
-6. Datasets
-   * Toronto file in Resources/Toronto folder
-   * Vancouver file in Resources/Vancouver folder
-7. Plots in Images folder
-    * Images/Toronto
-    * Images/Vancouver
 
