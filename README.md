@@ -10,7 +10,7 @@
 ## Topic: Bike Share Program
 
 ## Data Sources:
-1. [Toronto    2019 January to December](https://ckan0.cf.opendata.inter.prod-toronto.ca/download_resource/e69c5761-e0ed-4999-9426-8174f848b11a)
+1. [Toronto    2019 January to December](https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/)
 2. [Vancouver    2019 January to December](https://www.mobibikes.ca/en/system-data)
 
 ## Dataset Summary (What are we targeting for with this dataset?)
@@ -43,7 +43,7 @@ In summary, as the Ministry of Transportation of the regional municipality of Wa
 * Membership ID information is not included in the Vancouver data set, we cannot quantify how many individuals are registered in the bikeshare program.
 
 ## inclusions
-1. this README.md file
+1. README.md file
 2. BikeShare2019.ipynb - Toronto notebook
 3. BikeShare2019Vancouver.ipynb - Vancouver notebook
 4. Project-BikeShare2019.ipynb - execute this notebook to run Toronto and Vancouver notebooks
