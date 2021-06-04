@@ -1,4 +1,4 @@
-# Project: Bike Share Program - Data Extraction and Plloting
+# Bike Share Program - Data Extraction and Plloting
  
 ## Group Members
 1. Rubalpreet Bhullar
